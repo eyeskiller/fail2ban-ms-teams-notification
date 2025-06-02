@@ -16,7 +16,7 @@ This integration enables Fail2Ban to send detailed notifications to Microsoft Te
 
 | Requirement | Version | Description |
 |-------------|---------|-------------|
-| **Fail2Ban** | 0.9.0+ | Core security monitoring service |
+| **Fail2Ban** | 1.0.2+ | Core security monitoring service |
 | **Root Access** | Required | Administrative privileges for configuration |
 | **Network Access** | HTTPS | Outbound connectivity to Teams webhooks |
 | **Shell Environment** | Bash | Standard utilities (curl, jq recommended) |
