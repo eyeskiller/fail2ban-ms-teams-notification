@@ -35,8 +35,8 @@ This integration enables Fail2Ban to send detailed notifications to Microsoft Te
 
 ```bash
 # Clone the repository
-git clone git@ssh.dev.azure.com:v3/eyerim/Falcon/fail2ban-teams-notifications
-cd fail2ban-teams-notifications
+git clone https://github.com/eyeskiller/fail2ban-ms-teams-notification.git
+cd fail2ban-ms-teams-notification
 ```
 
 ### :two: File Deployment
