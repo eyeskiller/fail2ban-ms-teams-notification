@@ -1,6 +1,6 @@
-# Fail2Ban Microsoft Teams Notifications
+# DEPRECATED - REPLACED WITH [FAIL2BAN Notifier](https://github.com/eyeskiller/fail2ban-notifier) !!!!!
 
-[[_TOC_]]
+# Fail2Ban Microsoft Teams Notifications
 
 ## Overview
 
